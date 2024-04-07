@@ -13,11 +13,10 @@
 > `Strategy` - [поведенческий паттерн](https://github.com/Jon7even/learning-design-patterns/tree/main/strategy), 
 > который определяет семейство алгоритмов, инкапсулирует каждый из них и обеспечивает их взаимозаменяемость. 
 > Позволяет выбирать алгоритм путём определения соответствующего класса(динамическое поведение), 
-> независимо от объектов-клиентов.
+> независимо от объектов-клиентов. 
+> [Схема Стратегии](https://github.com/Jon7even/learning-design-patterns/tree/main/strategy/strategy.jpg)
 >
-> 
-
-![Схема Стратегии](https://github.com/Jon7even/learning-design-patterns/tree/main/strategy/strategy.jpg)
+>
 
 
 ## 2. Наблюдатель
