@@ -16,9 +16,9 @@
 > независимо от объектов-клиентов.
 >
 > 
-> ![Схема Стратегии](https://github.com/Jon7even/learning-design-patterns/tree/main/strategy/strategy.jpg)
->
-> 
+
+![Схема Стратегии](/learning-design-patterns/tree/main/strategy/strategy.jpg)
+
 
 ## 2. Наблюдатель
 
