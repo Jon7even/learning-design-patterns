@@ -26,7 +26,7 @@
 > зависимые объекты оповещаются и обновляются автоматически. Субъект обновляет наблюдателей через единый интерфейс.
 > Субъект нечего не знает о наблюдателях (кроме того, что они используют интерфейс Observer). А вот при использовании
 > самого паттерна есть как "запрос", так и "активная доставка данных".
-> [Схема Наблюдателя](https://github.com/Jon7even/learning-design-patterns/tree/main/strategy/observer.jpg)
+> [Схема Наблюдателя](https://github.com/Jon7even/learning-design-patterns/tree/main/observer/observer.jpg)
 >
 >
 
