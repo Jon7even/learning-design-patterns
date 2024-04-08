@@ -3,7 +3,7 @@ package com.github.jon7even.model;
 import java.util.ArrayList;
 
 public class StationObserverImpl implements Subject {
-    private ArrayList<Observer> listObservers;
+    private final ArrayList<Observer> listObservers;
     private String state;
     private int data;
 
