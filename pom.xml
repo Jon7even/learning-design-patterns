@@ -6,6 +6,7 @@
     <modules>
         <module>strategy</module>
         <module>observer</module>
+        <module>decorator</module>
     </modules>
 
     <name>Patterns</name>
