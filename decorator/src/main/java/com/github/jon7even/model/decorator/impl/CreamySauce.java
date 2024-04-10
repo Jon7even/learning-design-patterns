@@ -1,22 +1,22 @@
 package com.github.jon7even.model.decorator.impl;
 
 import com.github.jon7even.model.Pasta;
-import com.github.jon7even.model.decorator.IngredientDecorator;
+import com.github.jon7even.model.decorator.SauceDecorator;
 
-public class CheeseIngredient extends IngredientDecorator {
+public class CreamySauce extends SauceDecorator {
     private final Pasta pasta;
 
-    public CheeseIngredient(Pasta pasta) {
+    public CreamySauce(Pasta pasta) {
         this.pasta = pasta;
     }
 
     @Override
     public double cost() {
-        return 29.99 + pasta.cost();
+        return 25.96 + pasta.cost();
     }
 
     @Override
     public String getDescription() {
-        return pasta.description + ", Сыр";
+        return pasta.description + ", Сливочный соус";
     }
 }

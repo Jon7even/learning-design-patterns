@@ -1,7 +1,7 @@
 package com.github.jon7even.model;
 
 public abstract class Pasta {
-    public String description = "Паста";
+    public String description = "Pasta";
 
     public String getDescription() {
         return description;
